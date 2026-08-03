@@ -3,7 +3,7 @@
 A full-stack data analysis project covering the complete pipeline from raw data to an interactive dashboard — **Excel → SQL → Python → Power BI**.
 
 ![Dashboard Preview](dashboard_screenshot.png)
-*(Add your dashboard screenshot here — export from Power BI and save as `dashboard_screenshot.png` in this repo)*
+
 
 ---
 
